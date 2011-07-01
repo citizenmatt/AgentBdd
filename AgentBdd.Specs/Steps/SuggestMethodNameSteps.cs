@@ -21,8 +21,5 @@ namespace AgentBdd.Specs.Steps
         {
             Assert.AreEqual(methodName,suggestedMethodName);
         }
-
-      
-
     }
 }
